@@ -1,0 +1,24 @@
+/*Estrutura do site*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, "Trebuched MS", sans-serif;
+    background: #fff url(../imagens/bg.png);
+    margin: 15px;
+}
+
+#container {
+    margin: 0 auto;
+    min-width: 740px;
+    max-width: 1180;
+    background: #ede9cc;
+
+}
+
+a {
+    text-decoration: none;
+}
