@@ -15,10 +15,23 @@ body {
     margin: 0 auto;
     min-width: 740px;
     max-width: 1180;
-    background: #ede9cc;
+    background: #ede9cc url(../imagens/bg-container.png) top center repeat-y;
 
 }
 
 a {
     text-decoration: none;
+}
+
+/*formatacacao de textos*/
+
+h2{
+    color: #7d7640;
+    font-size: 1.1em;
+    padding: 5px 0px;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 10px;
 }
